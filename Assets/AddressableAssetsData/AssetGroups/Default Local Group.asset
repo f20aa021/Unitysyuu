@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a23e553f95000284fa2245938cfd598b
+  m_SerializeEntries:
+  - m_GUID: ee57f90a7238c474bae706f12810e46e
+    m_Address: "Assets/Images/\u30DA\u30F3\u30AE\u30F3.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 447c2d7b1521c6840a1b9f152938303e
+    m_Address: Assets/Images/kari.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95aab3b8651d04040b26c5452112b66e
+    m_Address: Assets/Images/tora.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d852b78d8d026004fa3798c777900929
+    m_Address: Assets/UnityExcelxlsx.xlsx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4b6aeb4b7c3b2c5408eb6ab06eea6ff9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6de692ad72e86d140b7eab664d7f78ef, type: 2}
+    - {fileID: 11400000, guid: 1830534b89e083a41bf397bce5e384db, type: 2}
