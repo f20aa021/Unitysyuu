@@ -22,5 +22,4 @@ public class BackPanellManager: MonoBehaviour
     {
         
     }
-    //asdfghjklasdfghjklaa
 }
